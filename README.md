@@ -34,7 +34,9 @@ Best regards,
 Hem  
 Head of Data Analytics
 
-#### **Solution on:** File name: attendance_data_soln
+### **Solution:**   
+File name: attendance_data_soln  
+Tool: Power BI  
 
 > ### E-Mail #2:  
 > **DATA NORMALIZATION TASK**  
@@ -45,10 +47,12 @@ Your task will involve creating proper fact and dimension tables based on the da
 > ![345360026-ba151cad-6528-4b86-a1c6-0f81a01088a2](https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/0776ec0f-6800-4534-a0e8-6a191d4e7b9e)
 > <img width="353" alt="task2_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/39b1da56-74af-4405-a2b6-f8ef858113ab">    <img width="351" alt="task2_3" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/0c8dda5a-e866-451a-ab34-b9b9af48ab10">
 
-#### **Solution on:** File name: fact_order_soln
+### **Solution:**   
+File name: fact_order_soln  
+Tool: MS-Excel
 
 > ### E-Mail #3:  
-> **SCRUM TRAINING**
+> **SCRUM TRAINING**  
 > I’m forwarding the email from HR, in case it didn’t reach you.  
 As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products. To help you gain a thorough understanding of SCRUM, I am pleased to introduce you to the SCRUM Training Series, available at [Scrum Training Series](https://scrumtrainingseries.com/)
 >  
@@ -57,6 +61,29 @@ Good luck with your training!
 Best,  
 Hem  
 Head of Data Analytics  
+
+
+
+## WEEK 2:  
+
+> ### E-Mail #1:  
+> **VARIANCE ANALYSIS**  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
