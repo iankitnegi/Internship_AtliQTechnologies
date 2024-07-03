@@ -62,29 +62,48 @@ Best,
 Hem  
 Head of Data Analytics  
 
+### **Solution:**   
+Scrum Knowledge: Passed with 90%      
+
+![Screenshot (141)](https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/220dbac8-0346-4643-9b49-a6fefa61f229)
+
 
 
 ## WEEK 2:  
 
 > ### E-Mail #1:  
 > **VARIANCE ANALYSIS**  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The detailed explanation of the task.
+> 
+> You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
+>
+> **Datasets:**  
+> You will be provided with three datasets for this analysis:
+>
+> - fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.
+> - dim_customers.csv: Contains columns like customer_id, customer_name, and city.
+> - benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.
+>
+> **Workflow:**  
+> Here is a brief overview of the workflow for the task:
+>
+> - Review the benchmark data and the current data (fact_orders.csv).
+> - Metrics to compare between two files: Order quantity and Delivery quantity.
+> - Calculate the variance (absolute value) between the benchmark data and the current data for the identified metrics.
+> - Calculate the variance (in percentage) between the benchmark data and the current data for the identified metrics.
+> - Provide a complete report of the difference in numbers between the benchmark data and the main data.
+>
+> Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.
+>
+> Attaching screenshots from a dummy report I created, which will give you a better idea of what it looks like and how the final output should be presented
+> Feel free to ask your seniors for any questions!  
+Good luck with this task!  
+Best regards,  
+Hem  
+Head of Data Analytics  
+>
+> <img width="371" alt="week2_task1_1" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/f17a5ece-e5e6-4cc4-8e8e-b7e4b9288cee">    
+> <img width="380" alt="week2_task1_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/f966ea2b-cdb6-4f17-bfd2-2ddc06214ab0">
 
 
 
