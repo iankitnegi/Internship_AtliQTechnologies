@@ -32,4 +32,19 @@ The HR dataset can be found in the file "attendance_data.csv". Your tasks are di
 Good luck with your task!  
 Best regards,  
 Hem  
-Head of Data Analytics  
+Head of Data Analytics
+
+#### **Solution on:** File name: attendance_data_soln
+
+> ### E-Mail:  
+> **DATA NORMALIZATION TASK**  
+> Well done with the previous task. I have a new one for you.  
+One of our client projects requires a minor support. The dataset is currently in a de-normalized form, and we need your help to transform it into a normalized form.  
+Your task will involve creating proper fact and dimension tables based on the dataset, which can be found in the "fact_order_lines.csv" file. Providing a few screenshots of the dataset below, which will give you a better idea of what it looks like and how the final output should be presented
+> ![image](https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/ba151cad-6528-4b86-a1c6-0f81a01088a2)
+> <img width="353" alt="task2_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/39b1da56-74af-4405-a2b6-f8ef858113ab">    <img width="351" alt="task2_3" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/0c8dda5a-e866-451a-ab34-b9b9af48ab10">
+
+#### **Solution on:** File name: fact_order_soln
+
+
+
