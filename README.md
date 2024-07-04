@@ -105,5 +105,7 @@ Head of Data Analytics
 > <img width="371" alt="week2_task1_1" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/f17a5ece-e5e6-4cc4-8e8e-b7e4b9288cee">    
 > <img width="380" alt="week2_task1_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/f966ea2b-cdb6-4f17-bfd2-2ddc06214ab0">
 
-
+### **Solution:**   
+File name: benchmark_soln  
+Tool: Power BI  
 
