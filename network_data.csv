@@ -1,0 +1,235 @@
+city,network_id,network_status
+Mumbai,MuGNZXJ2,Pending Activation
+Mumbai,MuXN8JT4,Outage
+Mumbai,MuL74A77,Issue Reported
+Mumbai,Mu30F944,Issue Reported
+Mumbai,MuTAFIAM,Outage
+Mumbai,Mu82RAKW,Outage
+Mumbai,Mu2N0401,Connected
+Mumbai,MuZU004L,Issue Reported
+Mumbai,MuXESO25,Suspended
+Mumbai,MuLQ4F4D,Pending Activation
+Mumbai,Mu54HSCQ,Issue Reported
+Mumbai,MuJTT5NG,Issue Reported
+Mumbai,Mu9R8UI2,Issue Reported
+Mumbai,MuI730PT,Connected
+Mumbai,MuJ4NDGJ,Connected
+Mumbai,MuU8DFPX,Issue Reported
+Mumbai,Mu4VEXFD,Issue Reported
+Mumbai,MuOUN36B,Connected
+Mumbai,MuMTFHRZ,Pending Activation
+Mumbai,MuOP3K9I,Suspended
+Mumbai,Mu59HMCW,Suspended
+Mumbai,MuO6DFHU,Pending Activation
+Mumbai,MuC2KBFS,Pending Activation
+Mumbai,MuCV8WHB,Pending Activation
+Delhi,DeILG2JA,Issue Reported
+Delhi,DeU6A4LX,Issue Reported
+Delhi,DeWJ1GAW,Issue Reported
+Delhi,DeSCX5TF,Pending Activation
+Delhi,DeXUISFM,Connected
+Delhi,DeMV6ATA,Pending Activation
+Delhi,De76JQFU,Outage
+Delhi,De1JYOHV,Connected
+Delhi,De7VHHMM,Suspended
+Delhi,De9ZEVYB,Pending Activation
+Delhi,DeUYZSPY,Outage
+Delhi,DeK59S3U,Connected
+Delhi,DeXDUO6P,Issue Reported
+Delhi,DeP8BU58,Pending Activation
+Delhi,De5ODXV5,Issue Reported
+Delhi,DeK54M0E,Outage
+Delhi,DePCVGWH,Pending Activation
+Delhi,DeWF7UCI,Outage
+Delhi,De3WB6UE,Connected
+Delhi,DeNC70H2,Outage
+Bangalore,BaAIQSUW,Outage
+Bangalore,BaY7RSKA,Issue Reported
+Bangalore,Ba8EAAL6,Issue Reported
+Bangalore,BaVFQSKE,Outage
+Bangalore,Ba1GAW95,Issue Reported
+Bangalore,BaWESRLZ,Outage
+Bangalore,BaXVYMCB,Connected
+Bangalore,BaURW9AL,Suspended
+Bangalore,BaR3Y9WZ,Suspended
+Bangalore,BaIPEL5F,Connected
+Bangalore,BaTNDEWU,Connected
+Bangalore,BaASX37A,Outage
+Bangalore,BaLRGIRD,Issue Reported
+Bangalore,BaV9LSDD,Connected
+Bangalore,BaQSZBW2,Connected
+Bangalore,BaV2118G,Suspended
+Hyderabad,HyCUFL3J,Connected
+Hyderabad,HyBYVHLQ,Pending Activation
+Hyderabad,Hy2W0Z2D,Connected
+Hyderabad,HyP9YJWY,Suspended
+Hyderabad,HyO7OYF8,Connected
+Hyderabad,Hy4KJUHL,Pending Activation
+Hyderabad,HyLLD5DC,Pending Activation
+Hyderabad,Hy68OCRE,Connected
+Hyderabad,Hy5MTEUG,Issue Reported
+Hyderabad,Hy4K3DKF,Suspended
+Hyderabad,Hy2QB9AU,Issue Reported
+Hyderabad,HyICDJLB,Issue Reported
+Hyderabad,HyTOAS8Q,Outage
+Hyderabad,HyBBBHJ0,Connected
+Hyderabad,HyNA4N73,Issue Reported
+Hyderabad,HyYPCTER,Connected
+Hyderabad,HyHB8KIV,Suspended
+Hyderabad,HyP37RJM,Pending Activation
+Hyderabad,HyF8315J,Outage
+Hyderabad,Hy3L8D7G,Issue Reported
+Hyderabad,HyO9MRS0,Issue Reported
+Hyderabad,HyYHEAMA,Outage
+Chennai,ChY98W40,Connected
+Chennai,ChC9YDQ0,Suspended
+Chennai,ChQC1YQC,Pending Activation
+Chennai,ChTP2R99,Outage
+Chennai,Ch8S7PCW,Connected
+Chennai,Ch149YOX,Outage
+Chennai,ChW5NQZN,Issue Reported
+Chennai,ChH7Q1FN,Outage
+Chennai,ChVL7DMY,Suspended
+Chennai,ChZNQL5I,Outage
+Chennai,ChGQP4YO,Connected
+Chennai,ChGBXZTV,Connected
+Chennai,ChZ8TR1R,Suspended
+Chennai,ChIDLQMV,Issue Reported
+Chennai,ChCDWFJO,Issue Reported
+Chennai,ChHIFOWD,Pending Activation
+Chennai,ChPZ0KR5,Pending Activation
+Chennai,ChDP5YX4,Outage
+Chennai,ChJ0YZWL,Suspended
+Chennai,ChFR55TI,Connected
+Chennai,Ch8WWUA6,Outage
+Chennai,ChHC1ZYX,Outage
+Chennai,Ch7A3JCD,Suspended
+Chennai,Ch2JD5MX,Connected
+Chennai,ChV19TGP,Outage
+Chennai,ChEPJ8MQ,Connected
+Kolkata,KoKN8G0O,Pending Activation
+Kolkata,Ko9V4HQA,Issue Reported
+Kolkata,KoTUG62Z,Connected
+Kolkata,KoPQ9WJO,Suspended
+Kolkata,KoZ8SCAP,Issue Reported
+Kolkata,Ko497G8D,Connected
+Kolkata,KoLYAZ7E,Outage
+Kolkata,KoIFPU0B,Outage
+Kolkata,KoL1UGYY,Suspended
+Kolkata,Ko5HR2T3,Suspended
+Kolkata,KoH01XON,Connected
+Kolkata,KoU79B4K,Pending Activation
+Kolkata,Ko5WFFJJ,Issue Reported
+Kolkata,KoD9ICRW,Issue Reported
+Kolkata,KoYS0DEH,Connected
+Kolkata,Ko1Z7CZP,Pending Activation
+Kolkata,KoRLZQ56,Suspended
+Kolkata,Ko8MO7X8,Outage
+Kolkata,KoSM8BZ2,Connected
+Kolkata,Ko4E1X2W,Suspended
+Ahmedabad,AhJYBUQ2,Outage
+Ahmedabad,AhXV2XZW,Pending Activation
+Ahmedabad,AhMW5L7E,Suspended
+Ahmedabad,AhMEDE0R,Outage
+Ahmedabad,AhS4YSCJ,Pending Activation
+Ahmedabad,AhHQIF60,Outage
+Ahmedabad,Ah430HQ1,Pending Activation
+Ahmedabad,AhT8ZZ8F,Connected
+Ahmedabad,AhA5UK0J,Issue Reported
+Ahmedabad,AhGH5YA9,Pending Activation
+Ahmedabad,Ah0OVH0V,Issue Reported
+Ahmedabad,AhDIU3IZ,Outage
+Ahmedabad,Ah29P6P2,Outage
+Ahmedabad,Ah7TGI2T,Issue Reported
+Ahmedabad,AhBFZKSD,Suspended
+Ahmedabad,AhBEJ2VM,Outage
+Ahmedabad,AhIDFMUD,Suspended
+Ahmedabad,AhR4RZUT,Connected
+Ahmedabad,AhU9OI7S,Pending Activation
+Ahmedabad,AhHUH6L0,Outage
+Ahmedabad,Ah7SFWSF,Connected
+Ahmedabad,AhV54I3F,Connected
+Ahmedabad,Ah8KR6AW,Issue Reported
+Ahmedabad,AhODTM1T,Issue Reported
+Pune,PuZS04C9,Suspended
+Pune,Pu2G0GWT,Pending Activation
+Pune,PuUR4AEP,Pending Activation
+Pune,Pu00V25P,Connected
+Pune,PuMI3UEA,Connected
+Pune,Pu9A4Y42,Issue Reported
+Pune,PuPFF709,Connected
+Pune,PuTNR98G,Pending Activation
+Pune,PuAYCL3Q,Outage
+Pune,PuY42R86,Pending Activation
+Pune,Pu2XBDXS,Outage
+Pune,PuYQ9X1P,Suspended
+Pune,PuXQHRDR,Suspended
+Pune,Pu8CB1MX,Connected
+Pune,PuIBQVPU,Issue Reported
+Pune,PuRNRSBJ,Issue Reported
+Pune,PuOVW45Y,Connected
+Pune,Pu223XK9,Issue Reported
+Pune,Pu00EEUX,Pending Activation
+Pune,PuJ80M5Y,Pending Activation
+Pune,Pu52PPNV,Suspended
+Pune,PuV419IZ,Outage
+Pune,PuJO62QD,Outage
+Pune,PuR5QMFM,Connected
+Pune,PuGONE4M,Outage
+Pune,PuQ50UM5,Issue Reported
+Pune,PuVITHRL,Pending Activation
+Pune,PuVFRQ55,Outage
+Pune,PuAUTVJ4,Pending Activation
+Pune,PuI1O0HW,Connected
+Jaipur,JaV37JLI,Outage
+Jaipur,JaRJYIOY,Outage
+Jaipur,JaO3XEXH,Pending Activation
+Jaipur,JaXLZTP9,Pending Activation
+Jaipur,JaJ5ZM3V,Issue Reported
+Jaipur,Ja20KLR8,Pending Activation
+Jaipur,JaO78JQ5,Pending Activation
+Jaipur,JaPMCTFP,Pending Activation
+Jaipur,JaP4J9H2,Suspended
+Jaipur,JaLX79U2,Pending Activation
+Jaipur,JaG0SVR9,Connected
+Jaipur,JaP7GGH4,Issue Reported
+Jaipur,Ja8HN3XR,Suspended
+Jaipur,JaN732B1,Issue Reported
+Jaipur,Ja5SSX87,Pending Activation
+Jaipur,JaA351B0,Pending Activation
+Jaipur,JaTZ0HZN,Issue Reported
+Jaipur,Ja76J6QJ,Connected
+Jaipur,JaVGTAD0,Issue Reported
+Jaipur,JaKZECRZ,Issue Reported
+Jaipur,JaW1V245,Pending Activation
+Jaipur,JaWF3NZG,Connected
+Jaipur,JaWKD0HD,Outage
+Lucknow,LuXJUQE5,Pending Activation
+Lucknow,LuHTZ6UV,Connected
+Lucknow,LuD38NSQ,Pending Activation
+Lucknow,LuNU12BU,Outage
+Lucknow,Lu0LQD44,Suspended
+Lucknow,LuC4P2I5,Connected
+Lucknow,LuF4XY9N,Connected
+Lucknow,LuZUZBIP,Outage
+Lucknow,LuLHIV8A,Pending Activation
+Lucknow,Lu2Y4KJB,Suspended
+Lucknow,LuJDP2H9,Issue Reported
+Lucknow,LuMZY31K,Suspended
+Lucknow,Lu88YST4,Outage
+Lucknow,LuZUY2YV,Suspended
+Lucknow,LuP7ENCU,Suspended
+Lucknow,LuI2ITED,Outage
+Lucknow,LuBQFCHL,Pending Activation
+Lucknow,LuL0WDEY,Pending Activation
+Lucknow,LuJDPPI9,Suspended
+Lucknow,LuVF0T3Y,Issue Reported
+Lucknow,LuLO84FS,Pending Activation
+Lucknow,LuL0LIUF,Outage
+Lucknow,LuOGIMGE,Connected
+Lucknow,LuZCS8DS,Suspended
+Lucknow,Lu6I5PFF,Suspended
+Lucknow,LuMYVYSS,Connected
+Lucknow,LuX4EKM4,Connected
+Lucknow,LuZYX8TH,Pending Activation
+Lucknow,LuDJGV47,Pending Activation

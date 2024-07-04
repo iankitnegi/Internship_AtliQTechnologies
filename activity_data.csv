@@ -1,0 +1,270 @@
+city,network_id,activity_status
+Mumbai,Mu2YTVME,Network Auditing
+Mumbai,MuWZTXPY,New Installation
+Mumbai,Mu0N7ZPH,Network Auditing
+Mumbai,Mu6ZCS6H,New Installation
+Mumbai,MuYN477S,Network Expansion
+Mumbai,Mu5IWQOZ,New Installation
+Mumbai,MuDHNU6G,Network Expansion
+Mumbai,MuAJS4YY,Maintenance Work
+Mumbai,MuCOZ57S,Network Expansion
+Mumbai,MuD6HO5J,Network Expansion
+Mumbai,MuGQXZ50,Network Auditing
+Mumbai,MuBC2Q3R,Network Expansion
+Mumbai,MuM4617R,Network Auditing
+Mumbai,Mu6X2JYQ,Network Expansion
+Mumbai,Mu9240ZO,Network Auditing
+Mumbai,MuCBZKCL,Network Auditing
+Mumbai,MuI28HZY,Shifting
+Mumbai,MuZLPJ3S,Network Auditing
+Mumbai,MuH462K5,Network Expansion
+Mumbai,Mu5BFK33,Network Expansion
+Mumbai,MuEVVG9K,Network Expansion
+Mumbai,Mu4EKG6C,Maintenance Work
+Mumbai,MuN30IPR,Shifting
+Mumbai,MuMMTXQ3,Network Auditing
+Mumbai,MuAOZP7V,Maintenance Work
+Mumbai,MuXWAF14,Network Expansion
+Mumbai,MuE9EMYG,Shifting
+Mumbai,Mu6UZLHP,Network Auditing
+Mumbai,MuE58JSC,Maintenance Work
+Mumbai,MuE6AS4V,Network Auditing
+Mumbai,MuS9XRVT,Network Auditing
+Mumbai,Mu2P7TAJ,Network Auditing
+Mumbai,MuYB2CQN,Network Auditing
+Delhi,De2IPNTX,Network Expansion
+Delhi,DeJKSHCG,Maintenance Work
+Delhi,DeL642NU,Network Expansion
+Delhi,DeMMZAHD,Shifting
+Delhi,De8LJJG0,Maintenance Work
+Delhi,DeWN46M6,Maintenance Work
+Delhi,DeETIH2A,Shifting
+Delhi,DeV2YLVD,New Installation
+Delhi,De5UPEKD,Network Auditing
+Delhi,DeV922GB,Shifting
+Delhi,DeRVDHXZ,New Installation
+Delhi,DeYYPO9F,Shifting
+Delhi,DeAG1A61,Network Expansion
+Delhi,DePXLE5F,New Installation
+Delhi,DeGSJBA9,Maintenance Work
+Delhi,DeA2ATQS,Network Auditing
+Delhi,De12N38O,New Installation
+Delhi,De9A1VSN,New Installation
+Delhi,DeJNR9XE,Maintenance Work
+Delhi,DeAWKHX8,Network Auditing
+Delhi,DeV370BW,New Installation
+Bangalore,BaUO9D36,Network Expansion
+Bangalore,Ba07277W,Maintenance Work
+Bangalore,BaE6BUE3,New Installation
+Bangalore,BaEL3QIB,Shifting
+Bangalore,BaFXC6MY,Maintenance Work
+Bangalore,BaJM4XUE,Shifting
+Bangalore,Ba0APWYU,Network Expansion
+Bangalore,BaOH135X,Maintenance Work
+Bangalore,BaUOIR36,New Installation
+Bangalore,BaDOTR9T,Network Auditing
+Bangalore,BaBEMM5V,Network Expansion
+Bangalore,Ba7CMF2M,Network Auditing
+Bangalore,BaGDDSXS,Network Expansion
+Bangalore,BaISOME8,Maintenance Work
+Bangalore,BaKR5U0T,Shifting
+Bangalore,Ba7G12CE,New Installation
+Bangalore,BaHYJXKN,New Installation
+Bangalore,Ba4F3CGS,Shifting
+Bangalore,BaY1GOSR,Shifting
+Bangalore,BaABAR47,Network Auditing
+Bangalore,BaM69TQZ,Network Auditing
+Bangalore,BaD16NII,Network Expansion
+Bangalore,BaEIK6JR,New Installation
+Bangalore,BaC352CF,New Installation
+Bangalore,BaPKY2TW,Network Auditing
+Hyderabad,HyYYSYCM,Network Expansion
+Hyderabad,HyT0LNAV,Maintenance Work
+Hyderabad,HyDCFPYX,New Installation
+Hyderabad,HyVUIN40,Network Auditing
+Hyderabad,HyTNCA4G,Shifting
+Hyderabad,Hy1Y4F98,New Installation
+Hyderabad,HyBOWRHH,Network Expansion
+Hyderabad,HyHCMY1A,Shifting
+Hyderabad,HyYQAB93,New Installation
+Hyderabad,HyFTI7PI,Network Auditing
+Hyderabad,HyO7H84Q,Network Auditing
+Hyderabad,Hy4OOKO6,Shifting
+Hyderabad,HyLXPP27,Maintenance Work
+Hyderabad,HyAT5PNH,Shifting
+Hyderabad,Hy39IT56,Shifting
+Hyderabad,HyAJM4P8,Maintenance Work
+Hyderabad,Hy19SJLR,Network Auditing
+Hyderabad,HyU2X3NQ,Network Expansion
+Hyderabad,Hy7GMG1V,Network Auditing
+Hyderabad,HyWJEJQK,New Installation
+Hyderabad,HyDVIA3W,New Installation
+Hyderabad,HyRZ2IA7,New Installation
+Hyderabad,HyG5J0R0,Network Expansion
+Hyderabad,HyQRQLWZ,Maintenance Work
+Hyderabad,HySHXHMS,Network Expansion
+Hyderabad,HyYTJ1F1,Shifting
+Hyderabad,Hy9MWOA5,Network Auditing
+Hyderabad,Hy0DVWDB,Network Auditing
+Hyderabad,HyB1VMGP,Network Expansion
+Hyderabad,HyJ54OM6,Network Auditing
+Chennai,ChXYOUYO,Network Expansion
+Chennai,ChXFWOPZ,Maintenance Work
+Chennai,ChHHIHDS,Network Auditing
+Chennai,Ch6VQD7Y,New Installation
+Chennai,ChAYMS0Z,Maintenance Work
+Chennai,ChDS2OBK,Maintenance Work
+Chennai,ChBTEN5S,Network Expansion
+Chennai,ChS2UQ1M,Network Auditing
+Chennai,ChLATPJL,Network Expansion
+Chennai,Ch9PIGFP,Shifting
+Chennai,ChHXWFEO,Shifting
+Chennai,ChR4UWVN,Network Expansion
+Chennai,ChSA356J,Maintenance Work
+Chennai,ChO0I4I5,Maintenance Work
+Chennai,ChE0C24I,Shifting
+Chennai,ChJAYETW,Network Expansion
+Chennai,ChQ0DAU7,Network Expansion
+Chennai,Ch9WF1QJ,Shifting
+Chennai,ChV96B1A,Network Expansion
+Chennai,ChHEZ6R9,New Installation
+Chennai,ChGGT9LJ,Network Expansion
+Chennai,ChNGQGNI,Shifting
+Chennai,ChFQKYLC,Network Auditing
+Chennai,ChLLC558,Shifting
+Kolkata,KoWA7Q4I,Network Expansion
+Kolkata,KoPQ9YTG,Shifting
+Kolkata,KoEG32JH,New Installation
+Kolkata,KoVH7UQG,Network Expansion
+Kolkata,KoDJF2TA,Network Expansion
+Kolkata,KoC36OS6,New Installation
+Kolkata,Ko2ASJZ4,Shifting
+Kolkata,KoYB6B7R,Network Expansion
+Kolkata,KoKERF3K,Shifting
+Kolkata,KoKOT3HF,Network Auditing
+Kolkata,KoL9GCKZ,New Installation
+Kolkata,Ko3078EM,Shifting
+Kolkata,KoCHT6J5,Network Auditing
+Kolkata,KoASDDVU,New Installation
+Kolkata,KoCFHN65,Network Auditing
+Kolkata,KoPANZRW,Maintenance Work
+Kolkata,KoM48XYJ,Network Expansion
+Kolkata,KoWHSYPS,Maintenance Work
+Kolkata,KoCE8HJ9,Shifting
+Kolkata,KoBVX25B,Maintenance Work
+Kolkata,KoTUGZ4C,New Installation
+Kolkata,KoEAVULW,Shifting
+Kolkata,KoGSSJQK,Network Expansion
+Kolkata,KoKXB5ZI,Network Auditing
+Kolkata,KoBHC9UY,Network Expansion
+Kolkata,KoIUTPDM,New Installation
+Kolkata,KoJC0Y7D,Maintenance Work
+Kolkata,KoY5OAOY,Network Auditing
+Kolkata,Ko3PP48L,Maintenance Work
+Kolkata,KoB0599A,Network Expansion
+Kolkata,KoBDAMZJ,New Installation
+Ahmedabad,Ah6JQ3ON,Maintenance Work
+Ahmedabad,AhVSBAO9,Shifting
+Ahmedabad,AhUT1P8G,Shifting
+Ahmedabad,Ah36E0J8,Network Expansion
+Ahmedabad,AhORPTDY,Shifting
+Ahmedabad,AhK1MJ8B,New Installation
+Ahmedabad,Ah4TTC51,New Installation
+Ahmedabad,AhPG4C7E,Maintenance Work
+Ahmedabad,Ah2GO5IP,New Installation
+Ahmedabad,AhJ79YUJ,Network Auditing
+Ahmedabad,AhLMADTZ,Network Expansion
+Ahmedabad,Ah91XJFW,Shifting
+Ahmedabad,Ah89ATNA,Shifting
+Ahmedabad,AhEY5P5V,Maintenance Work
+Ahmedabad,AhBKY7US,Network Expansion
+Ahmedabad,AhH4PFR4,Shifting
+Ahmedabad,AhIXJF1Q,Maintenance Work
+Ahmedabad,AhEYDPSL,Shifting
+Ahmedabad,AhOPEZSH,Shifting
+Ahmedabad,AhQBV9QB,New Installation
+Ahmedabad,AhBGMDH8,Network Expansion
+Ahmedabad,AhBWA0SE,Shifting
+Ahmedabad,AhVKE39D,Shifting
+Ahmedabad,AhODUJLG,Network Auditing
+Ahmedabad,AhQ2A03F,Shifting
+Ahmedabad,Ah0SGDHB,New Installation
+Ahmedabad,AhF7939E,Maintenance Work
+Ahmedabad,Ah7Q2K47,Maintenance Work
+Ahmedabad,AhOAXGQM,Network Auditing
+Ahmedabad,Ah9FR68U,Network Auditing
+Ahmedabad,AhKHYGI0,New Installation
+Pune,PuFTRLN5,Network Auditing
+Pune,PuHXPDWI,Maintenance Work
+Pune,PuO35QNA,Network Auditing
+Pune,PuNXIB76,Network Expansion
+Pune,PuEBI9ON,Maintenance Work
+Pune,PuJZRNB5,New Installation
+Pune,PuYC3L3S,New Installation
+Pune,PuWCYRU3,Maintenance Work
+Pune,Pu6ZLZVF,Network Expansion
+Pune,Pu847ME7,Network Expansion
+Pune,PuZG517J,Maintenance Work
+Pune,PuFKDLGD,New Installation
+Pune,PuLBSBHA,Network Auditing
+Pune,PuSS0W4O,New Installation
+Pune,PuYAB4JM,Network Auditing
+Pune,Pu6RVH1N,Shifting
+Pune,PuASOSSI,Network Auditing
+Pune,PuL62A4E,Maintenance Work
+Pune,PuF386FX,Network Expansion
+Pune,PuLHFWGP,New Installation
+Pune,PuCV5KMM,Maintenance Work
+Pune,PuOYL6VS,New Installation
+Pune,PuSW91KR,Shifting
+Pune,PuFCK94W,Network Auditing
+Pune,Pu0GDDDW,Shifting
+Pune,PuR8Q11P,Network Auditing
+Pune,Pu0Y2DX3,Shifting
+Pune,PuMYWUKS,New Installation
+Pune,Pu87QUJ8,New Installation
+Jaipur,JaEHWV2X,Shifting
+Jaipur,JaX3WP2U,Maintenance Work
+Jaipur,JaTTWLXI,New Installation
+Jaipur,JaV07LK2,New Installation
+Jaipur,JaBHSBMQ,Maintenance Work
+Jaipur,Ja1MOO1U,Network Expansion
+Jaipur,JaOB2826,Maintenance Work
+Jaipur,JaQN96DE,New Installation
+Jaipur,JaZ39XAN,Network Expansion
+Jaipur,JaA716LU,New Installation
+Jaipur,JaTHXI9I,Network Auditing
+Jaipur,JaTNXY9Z,New Installation
+Jaipur,JaY7K1ND,Maintenance Work
+Jaipur,JaL8SGEQ,Network Expansion
+Jaipur,Ja94UDAW,Shifting
+Jaipur,Ja8BXC06,Network Auditing
+Jaipur,JaV1JU54,Network Expansion
+Jaipur,Ja4MSOOB,Maintenance Work
+Jaipur,JaHI17IC,Maintenance Work
+Jaipur,JaEOB264,New Installation
+Jaipur,JaVMDDZ6,Network Expansion
+Jaipur,Ja9TZ6FO,Shifting
+Jaipur,JaI2OYB2,Network Auditing
+Lucknow,Lu6SM0ZE,Shifting
+Lucknow,LuS5CZ4C,Network Auditing
+Lucknow,LuQMOLFM,Shifting
+Lucknow,LuOU6B8L,Network Auditing
+Lucknow,Lu1T1513,Network Auditing
+Lucknow,LuPWJBVI,Network Auditing
+Lucknow,Lu7NHB4A,Network Auditing
+Lucknow,Lu15ASSH,Shifting
+Lucknow,LuZRYYS9,Network Expansion
+Lucknow,Lu3MX66Q,Network Expansion
+Lucknow,Lu5T68B0,New Installation
+Lucknow,LuD25FOP,New Installation
+Lucknow,LuPQRQAM,Network Auditing
+Lucknow,LuBDPI97,Maintenance Work
+Lucknow,LuX4TM68,New Installation
+Lucknow,LuPKJ1PC,Network Expansion
+Lucknow,LuIN1896,Network Auditing
+Lucknow,Lu9RRYZ2,Network Expansion
+Lucknow,LuZP1BEK,Shifting
+Lucknow,LuWG2YLW,Network Expansion
+Lucknow,Lu7PDC67,Maintenance Work
+Lucknow,LuTLXAVQ,Shifting
