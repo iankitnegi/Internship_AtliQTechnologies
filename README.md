@@ -109,3 +109,25 @@ Head of Data Analytics
 File name: benchmark_soln  
 Tool: Power BI  
 
+
+> ### E-Mail #2:  
+> **SQL QUERY DEBUGGING**  
+I’m struggling with something and need your help. Took some SQL queries created by our previous interns and it seems they were not debugged. Can you debug it?  
+I have provided you with the necessary files to get started.
+>
+> To get started, download the 'gdb080.sql' file and load it into your MySQL workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that you need to identify and fix. Please ensure that you test each query thoroughly after fixing the errors.  
+I need this ASAP – please get this done.
+>
+> Best regards,  
+> Hem    
+> Head of Data Analytics
+
+
+
+
+
+
+
+
+
+
