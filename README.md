@@ -142,8 +142,34 @@ I have provided you with two Excel sheets - "network_data.csv" and "activity_dat
 > <img width="427" alt="week2_task3_1" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/9b252a20-1e21-4efb-8007-cca4c9c26c0f">
 > <img width="484" alt="week2_task3_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/ccd0531d-7559-4f13-90e6-a47e6e1adcdb">
 
+### **Solution:**   
+File name: network_data_soln  
+Tool: MS-Excel  
 
 
+> ### E-Mail #4:  
+> **INSIGHTS PRESENTATION**    
+I’m sending the details to you as discussed in the call.  
+You need to create a presentation from the dashboard for our telecom client 'Wavecon'.
+>
+> Your task is to analyze the dashboard and provide insights on a ppt that addresses the following questions:  
+> 1. What is the impact of the 5G launch on our revenue?
+> 2. Which KPI is underperforming after the 5G launch?
+> 3. After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
+> 4. Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+> 5. Is there any plan that is discontinued after the 5G launch? What is the reason for it?    
+>
+> These are just initial questions to help you get started, and you are free to come up with new insights based on your analysis. You can also play around with the dashboard to get better insights.
+> Looking forward to your best!  
+>
+> Best regards,  
+> Hem  
+> Head of Data Analytics
+>
+> 
+> Preview of the dashboard:
+> 
+> ![o3h4vli7](https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/77439c19-ad33-492a-bcfd-b4b2139d0029)
 
 
 
