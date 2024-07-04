@@ -122,6 +122,28 @@ I need this ASAP – please get this done.
 > Hem    
 > Head of Data Analytics
 
+### **Solution:**   
+File name: gdb080_soln  
+Tool: MySQL
+
+
+> ### E-Mail #3:  
+> **REPORT AUTOMATION**
+> I need a quick ad-hoc task completed.    
+One of our clients in the Network services domain is currently creating a report every week manually. This can be easily automated and we can help them save time.    
+I have provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", which contain data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these two files and create a new table that meets the specified format. I have attached the format to this email for your reference.  
+>
+> Note: To achieve the desired format, you will need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.
+>
+> Best regards,  
+> Hem  
+> Head of Data Analytics
+>
+> <img width="427" alt="week2_task3_1" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/9b252a20-1e21-4efb-8007-cca4c9c26c0f">
+> <img width="484" alt="week2_task3_2" src="https://github.com/iankitnegi/Internship_AtliQ_Technologies/assets/132642567/ccd0531d-7559-4f13-90e6-a47e6e1adcdb">
+
+
+
 
 
 
