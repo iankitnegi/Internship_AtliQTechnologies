@@ -200,7 +200,29 @@ Business Analyst
 Shield Insurance  
 >
 
+| Sno | Features                                                                                         | Comments                                                                                                                       | Priority |
+|-----|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------|
+| 1   | Show total customers, total revenue, daily revenue growth, daily customer growth as key metrics  | To monitor all the crucial metrics                                                                                             | High     |
+| 2   | Month over month change% on key metrics                                                          | Tracking the month-over-month change in policies on key metrics can offer valuable insights into a company's performance trends | High     |
+| 3   | Segment customers based on their age groups: 18-24, 25-30, 31-40, 41-50, 51-65, and 65+           | To categorize customers into different age groups to better understand behavior and preferences                                | High     |
+| 4   | Total revenue split by age group, city                                                           | To identify the most profitable customer demographics and geographical areas                                                   | High     |
+| 5   | Total customers split by age group, city                                                         | To understand customers' locations and age groups, allowing us to customize products and marketing strategies                  | High     |
+| 6   | Customers, daily customer growth trend by month                                                  | To understand customer growth trends over time and spot changes in customer behavior to adjust our marketing efforts accordingly | Low      |
+| 7   | Revenue, daily revenue growth trend by month                                                     | To track the business's financial performance and growth trends over time, spotting any changes or fluctuations in revenue     | Low      |
+| 8   | Create a switch between revenue trend graph and customer trend graph                             | Switching between revenue and customer trend graphs enhances user experience by providing a more customized and efficient view of the data | Low      |
+| 9   | Filters on sale mode, age group, city, month, policy ID                                          | Provides users with the ability to filter and sort data according to specific parameters, allowing for more targeted analysis  | High     |
+| 10  | Separate page for sales mode analysis                                                            | A dedicated page for sales mode analysis                                                                                       | High     |
+| 11  | Total customers split percentage by sales mode                                                   | Provides insights into which modes are most effective in attracting and retaining customers                                    | High     |
+| 12  | Total revenue split percentage by sales mode                                                     | Provides insights into which modes are most effective in generating revenue for the business                                   | High     |
+| 13  | Trend of sales mode over month                                                                   | To understand the trend of sales mode over the month                                                                           | Low      |
+| 14  | Separate page for age group analysis                                                             | A dedicated page for age group analysis                                                                                        | High     |
+| 15  | Age group vs expected settlement                                                                 | To know what the expected annual settlement is                                                                                 | High     |
+| 16  | Age group vs sales mode                                                                          | To understand what sales mode people prefer by age group                                                                       | Low      |
+| 17  | Age group vs policy preference                                                                   | To understand what policies people buy by age group                                                                            | High     |      
 
+> ### Email #2: Send project update and mockup to the client for confirmation  
+>
+> Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.
 
 
 
