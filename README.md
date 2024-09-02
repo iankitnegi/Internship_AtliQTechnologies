@@ -224,6 +224,19 @@ Shield Insurance
 >
 > Description: As part of the project team, you will be responsible for sending the latest project update and mockup to the client for confirmation. This will involve ensuring that the update and mockup accurately reflect the project's progress and are presented in a clear and professional manner. Once sent, you will be responsible for following up with the client to ensure that their feedback is received and addressed in a timely manner. This task requires excellent communication skills and attention to detail to ensure that the project stays on track and the client's expectations are met.
 
+### **Solution:**   
+File name: Mock_Up   
+Tool: MS-Powerpoint  
+
+Sir/Mam,  
+I’m pleased to submit the Power BI dashboard mockup for your review. This mockup is designed to provide a clear visualization of the key metrics and insights that we discussed, tailored to meet your business objectives.  
+
+Key features of the dashboard include: Overview, Sales & Age Group.  
+
+Please review the mockup at your earliest convenience and let me know if there are any adjustments or additional features you would like to incorporate. I’m here to ensure that the final version aligns perfectly with your expectations.  
+
+Thank you for the opportunity to work on this project. I look forward to your feedback.  
+
 
 
 
