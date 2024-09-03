@@ -235,7 +235,20 @@ Key features of the dashboard include: Overview, Sales & Age Group.
 
 Please review the mockup at your earliest convenience and let me know if there are any adjustments or additional features you would like to incorporate. I’m here to ensure that the final version aligns perfectly with your expectations.  
 
-Thank you for the opportunity to work on this project. I look forward to your feedback.  
+Thank you for the opportunity to work on this project. I look forward to your feedback.    
+
+> ### Email #3: Mock-Up Feedback
+>
+> Ankit Negi!  
+I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.  
+Additionally, I wanted to thank you for the project update that you sent us. It was great to see the progress that has been made, and I appreciate the clear and concise manner in which you presented the information.  
+That being said, I did make a few changes to the mock-up to better align with our specific needs. I have attached the ‘mock-up changes’ to this email so that you can take a look and see the changes that were made.  
+I'm excited to see how this project progresses and the end tool that you create based on the feedback.  
+>
+> Best regards,  
+Mathew  
+Business Analyst  
+Shield Insurance  
 
 
 
