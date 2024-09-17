@@ -268,6 +268,6 @@ I have attached a sample DAX metrics list and sample documentation from previous
 Hem  
 Head of Data Analytics  
 
-
-
+### **Solution:**  
+[Link](https://github.com/iankitnegi/PowerBI_ShieldInsurance)
 
