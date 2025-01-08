@@ -272,4 +272,7 @@ Head of Data Analytics
 [PowerBI Dashboard On Shield Insurance With Step By Step Guide: Click! Click! Click!](https://github.com/iankitnegi/PowerBI_ShieldInsurance)        
 
 ## LETTER OF EXPERIENCE | INTERNSHIP:  
-![Screenshot (382)](https://github.com/user-attachments/assets/fb4240c2-955c-489e-8aa7-0882d768947c)
+![Screenshot (382)](https://github.com/user-attachments/assets/fb4240c2-955c-489e-8aa7-0882d768947c)  
+
+
+# Internship VI-II @ AtliQ Technologies  
